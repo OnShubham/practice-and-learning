@@ -1,0 +1,59 @@
+Data types => this is a 2 type 
+1 - Primitive Datatypes
+2- Non Primitive Data
+
+Primitive Datatypes =>
+
+7 type : String , Number , Null , Boolean , undefiend , symbol, BigInt
+
+Non Primitive Datatypes => 
+
+Array , Object ,  Fumction 
+
+
+Master in to learn a lot Object and Array
+
+---------------------------------------------
+
+Javascript is Dynamicaly type language 
+
+----------------------------------------------
+
+
+Array
+
+cosnt heros = ["SHubham", "Cirag"] ;  ----> this is Array
+
+Object 
+
+let myObj = {
+    name : "hites",
+    age: 22,
+}
+
+
+Fumction
+
+
+const myFunction = myFunction {
+    console.log("heyy)
+}
+
+-----------------------------------
+chek a data type
+
+let a = 19
+
+console.log(typeOf a)   ----> typeOf is show a Datatypes
+
+------------------------------------
+
+Stack adn Heap memory 
+
+this have a 2 type of memory
+
+1 = Stack (Primitive)
+
+2 = Heap  (Non Primitive)
+
+----------------------------------
